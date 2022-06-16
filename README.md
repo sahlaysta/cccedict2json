@@ -2,7 +2,7 @@
 
 Conversion of CC-CEDICT cedict_ts.u8 format to JSON. Updates daily at 0:00.
 
-Written in Java. Source in "core" branch
+Written in Java.
 
 ## License
 
