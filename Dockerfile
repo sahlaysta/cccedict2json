@@ -30,4 +30,4 @@ RUN \
   #run cccedict2json.jar
   mkdir /opt/cccedict2json/output \
     && \
-  java -jar cccedict2json.jar /opt/cccedict2json/cedict_ts.u8 /opt/cccedict2json/output
+  java -jar /opt/cccedict2json/core/cccedict2json.jar /opt/cccedict2json/cedict_ts.u8 /opt/cccedict2json/output
