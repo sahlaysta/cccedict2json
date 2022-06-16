@@ -4,7 +4,9 @@ Conversion of CC-CEDICT cedict_ts.u8 format to JSON. Updates daily at 0:00.
 
 Written in Java. Source in "core" branch
 
-## Licensing
+## License
+
+This work is licensed under the MIT License. You may obtain a copy of the License at: https://tldrlegal.com/license/mit-license#fulltext
 
 * [CC-CEDICT](https://www.mdbg.net/chinese/dictionary?page=cedict) is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
     * You may obtain a copy of the License at: https://creativecommons.org/licenses/by-sa/4.0/
