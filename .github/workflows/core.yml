@@ -25,6 +25,5 @@ jobs:
         with:
           GITHUB_TOKEN: $
           BRANCH: main
-          TARGET-FOLDER: core
           FOLDER: output
           CLEAN: false
