@@ -1,6 +1,6 @@
 # cccedict2json
 
-Conversion of CC-CEDICT cedict_ts.u8 format to JSON. Updates daily at 0:00.
+Conversion of CC-CEDICT cedict_ts.u8 format to JSON. Updates daily at 0:00 UTC.
 
 Written in Java.
 
